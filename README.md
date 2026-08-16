@@ -1,6 +1,6 @@
 # Information-security-framework
 
-## LankaEdu univercity 
+## LankaEdu university 
 
 A practical information security framework developed for a fictional university environment 
 
